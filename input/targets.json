@@ -1,0 +1,647 @@
+[
+    {
+        "ats": "ashby",
+        "company": "aplazo"
+    },
+    {
+        "ats": "workday",
+        "company": "https://arcticwolf.wd1.myworkdayjobs.com/external"
+    },
+    {
+        "ats": "ashby",
+        "company": "elevenlabs"
+    },
+    {
+        "ats": "ashby",
+        "company": "apple-roofing"
+    },
+    {
+        "ats": "ashby",
+        "company": "ontic"
+    },
+    {
+        "ats": "ashby",
+        "company": "plane"
+    },
+    {
+        "ats": "ashby",
+        "company": "snowflake"
+    },
+    {
+        "ats": "ashby",
+        "company": "the-flex"
+    },
+    {
+        "ats": "bamboohr",
+        "company": "seagate"
+    },
+    {
+        "ats": "google",
+        "company": "google"
+    },
+    {
+        "ats": "eightfold",
+        "company": "amdocs"
+    },
+    {
+        "ats": "eightfold",
+        "company": "citi"
+    },
+    {
+        "ats": "eightfold",
+        "company": "johndeere"
+    },
+    {
+        "ats": "eightfold",
+        "company": "nvidia"
+    },
+    {
+        "ats": "eightfold",
+        "company": "slb"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "6sense"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "byd"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "capco"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "crunchyroll"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "druva"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "elastic"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "kellerpostman"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "modulrfinance"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "nice"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "nimblegravity"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "pubmatic"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "razorpaysoftwareprivatelimited"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "siei"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "zscaler"
+    },
+    {
+        "ats": "jazzhr",
+        "company": "eci"
+    },
+    {
+        "ats": "lever",
+        "company": "aeratechnology"
+    },
+    {
+        "ats": "lever",
+        "company": "amberelectric"
+    },
+    {
+        "ats": "lever",
+        "company": "paytm"
+    },
+    {
+        "ats": "lever",
+        "company": "payugpo"
+    },
+    {
+        "ats": "lever",
+        "company": "rivr"
+    },
+    {
+        "ats": "lever",
+        "company": "veritasinv"
+    },
+    {
+        "ats": "lever",
+        "company": "zeta"
+    },
+    {
+        "ats": "smartrecruiters",
+        "company": "adobe1"
+    },
+    {
+        "ats": "smartrecruiters",
+        "company": "aristanetworks"
+    },
+    {
+        "ats": "smartrecruiters",
+        "company": "hitachisolutions"
+    },
+    {
+        "ats": "phenom",
+        "company": "https://careers.mastercard.com"
+    },
+    {
+        "ats": "icims",
+        "company": "persistentsystems"
+    },
+    {
+        "ats": "smartrecruiters",
+        "company": "servicenow"
+    },
+    {
+        "ats": "smartrecruiters",
+        "company": "virtusapolaris"
+    },
+    {
+        "ats": "workday",
+        "company": "https://zendesk.wd1.myworkdayjobs.com/zendesk"
+    },
+    {
+        "ats": "workable",
+        "company": "dyson-farming"
+    },
+    {
+        "ats": "workday",
+        "company": "https://allstate.wd5.myworkdayjobs.com/allstate_careers"
+    },
+    {
+        "ats": "workday",
+        "company": "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays"
+    },
+    {
+        "ats": "workday",
+        "company": "https://broadcom.wd1.myworkdayjobs.com/external_career"
+    },
+    {
+        "ats": "workday",
+        "company": "https://copart.wd12.myworkdayjobs.com/copart"
+    },
+    {
+        "ats": "workday",
+        "company": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers"
+    },
+    {
+        "ats": "workday",
+        "company": "https://equifax.wd5.myworkdayjobs.com/External"
+    },
+    {
+        "ats": "workday",
+        "company": "https://fis.wd5.myworkdayjobs.com/searchjobs"
+    },
+    {
+        "ats": "workday",
+        "company": "https://lseg.wd3.myworkdayjobs.com/careers"
+    },
+    {
+        "ats": "workday",
+        "company": "https://rakuten.wd1.myworkdayjobs.com/kobo"
+    },
+    {
+        "ats": "workday",
+        "company": "https://redhat.wd5.myworkdayjobs.com/jobs"
+    },
+    {
+        "ats": "workday",
+        "company": "https://salesforce.wd12.myworkdayjobs.com/external_career_site"
+    },
+    {
+        "ats": "workday",
+        "company": "https://salesforce.wd12.myworkdayjobs.com/slack"
+    },
+    {
+        "ats": "workday",
+        "company": "https://synechron.wd1.myworkdayjobs.com/synechroncareers"
+    },
+    {
+        "ats": "workday",
+        "company": "https://tiaa.wd1.myworkdayjobs.com/search"
+    },
+    {
+        "ats": "workday",
+        "company": "https://zelis.wd1.myworkdayjobs.com/zeliscareers"
+    },
+    {
+        "ats": "workday",
+        "company": "https://altera.wd1.myworkdayjobs.com/altera"
+    },
+    {
+        "ats": "disney",
+        "company": "disney"
+    },
+    {
+        "_comment": "Uber uses proprietary ATS, no supported scraper - skipped"
+    },
+    {
+        "ats": "oracle",
+        "company": "https://eeho.fa.us2.oraclecloud.com"
+    },
+    {
+        "ats": "boeing",
+        "company": "boeing"
+    },
+    {
+        "ats": "successfactors",
+        "company": "jobdetails.nestle.com"
+    },
+    {
+        "ats": "jio",
+        "company": "jiosaavn"
+    },
+    {
+        "ats": "successfactors",
+        "company": "careers.airindia.com"
+    },
+    {
+        "ats": "reit",
+        "company": "embassy"
+    },
+    {
+        "ats": "reit",
+        "company": "mindspace"
+    },
+    {
+        "ats": "eazydiner",
+        "company": "eazydiner"
+    },
+    {
+        "ats": "swiggy",
+        "company": "swiggy"
+    },
+    {
+        "ats": "workday",
+        "company": "https://bmc.wd1.myworkdayjobs.com/BMC"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "flex"
+    },
+    {
+        "ats": "ashby",
+        "company": "listenlabs"
+    },
+    {
+        "ats": "ashby",
+        "company": "finny"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "adyen"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "saucelabs"
+    },
+    {
+        "ats": "ashby",
+        "company": "lumaai"
+    },
+    {
+        "ats": "ashby",
+        "company": "zafran-security"
+    },
+    {
+        "ats": "ashby",
+        "company": "neuralconcept"
+    },
+    {
+        "ats": "ashby",
+        "company": "articul8"
+    },
+    {
+        "ats": "ashby",
+        "company": "webai"
+    },
+    {
+        "ats": "ashby",
+        "company": "character"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "yoodliinc"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "tracelinkinc"
+    },
+    {
+        "ats": "ashby",
+        "company": "tekion"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "momentumcommerce"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "phonepe"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "groww"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "postman"
+    },
+    {
+        "ats": "smartrecruiters",
+        "company": "zomato"
+    },
+    {
+        "ats": "workday",
+        "company": "https://sprinklr.wd1.myworkdayjobs.com/careers"
+    },
+    {
+        "ats": "workday",
+        "company": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal"
+    },
+    {
+        "ats": "ashby",
+        "company": "cred"
+    },
+    {
+        "ats": "workday",
+        "company": "https://fractal.wd1.myworkdayjobs.com/Careers"
+    },
+    {
+        "ats": "tiktok",
+        "company": "tiktok"
+    },
+    {
+        "company": "SiemensEnergy",
+        "ats": "smartrecruiters"
+    },
+    {
+        "company": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB",
+        "ats": "workday"
+    },
+    {
+        "company": "Nielsen",
+        "ats": "smartrecruiters"
+    },
+    {
+        "company": "https://salesforce.wd12.myworkdayjobs.com/Slack",
+        "ats": "workday"
+    },
+    {
+        "company": "NoBroker",
+        "ats": "smartrecruiters"
+    },
+    {
+        "company": "https://jiostar.wd102.myworkdayjobs.com/JioStar",
+        "ats": "workday"
+    },
+    {
+        "company": "coinbase",
+        "ats": "greenhouse"
+    },
+    {
+        "company": "meta",
+        "ats": "meta"
+    },
+    {
+        "company": "airtel",
+        "ats": "airtel"
+    },
+    {
+        "company": "inmobi",
+        "ats": "greenhouse",
+        "url": "inmobi"
+    },
+    {
+        "company": "meesho",
+        "ats": "lever",
+        "url": "meesho"
+    },
+    {
+        "company": "clear",
+        "ats": "greenhouse",
+        "url": "clear"
+    },
+    {
+        "company": "agoda",
+        "ats": "greenhouse",
+        "url": "agoda"
+    },
+    {
+        "company": "acquia",
+        "ats": "greenhouse",
+        "url": "acquia"
+    },
+    {
+        "company": "slice",
+        "ats": "greenhouse",
+        "url": "slice"
+    },
+    {
+        "company": "dunnhumby",
+        "ats": "greenhouse",
+        "url": "dunnhumby"
+    },
+    {
+        "company": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+        "ats": "oracle"
+    },
+    {
+        "company": "gommt",
+        "ats": "darwinbox"
+    },
+    {
+        "company": "navi",
+        "ats": "turbohire",
+        "url": "https://navi.turbohire.co/careerpage/3e818601-0baa-429c-b6f8-4b21903ae0e6"
+    },
+    {
+        "company": "https://target.wd5.myworkdayjobs.com/targetcareers",
+        "ats": "workday"
+    },
+    {
+        "company": "delhivery",
+        "ats": "darwinbox"
+    },
+    {
+        "company": "urbancompany",
+        "ats": "turbohire",
+        "url": "https://urbancompany.turbohire.co/"
+    },
+    {
+        "company": "atherenergy",
+        "ats": "darwinbox"
+    },
+    {
+        "company": "zepto.talentrecruit.com",
+        "ats": "talentrecruit"
+    },
+    {
+        "company": "gotogroup",
+        "ats": "lever"
+    },
+    {
+        "company": "jobs.myntra.com",
+        "ats": "greenhouse",
+        "url": "jobs.myntra.com"
+    },
+    {
+        "company": "https://browserstack.wd3.myworkdayjobs.com/External",
+        "ats": "workday",
+        "url": "https://browserstack.wd3.myworkdayjobs.com/External"
+    },
+    {
+        "company": "https://uhg.taleo.net",
+        "ats": "taleo",
+        "url": "https://uhg.taleo.net"
+    },
+    {
+        "company": "pinelabsgroup.turbohire.co",
+        "ats": "turbohire",
+        "url": "pinelabsgroup.turbohire.co"
+    },
+    {
+        "company": "careers.cult.fit",
+        "ats": "zwayam",
+        "url": "careers.cult.fit"
+    },
+    {
+        "company": "careers.bbinsight.com",
+        "ats": "zoho",
+        "url": "careers.bbinsight.com"
+    },
+    {
+        "company": "lenskart.turbohire.co",
+        "ats": "turbohire",
+        "url": "lenskart.turbohire.co"
+    },
+    {
+        "company": "intuit",
+        "ats": "avature",
+        "url": "intuit"
+    },
+    {
+        "company": "cisco2",
+        "ats": "avature",
+        "url": "cisco2"
+    },
+    {
+        "company": "1mg",
+        "ats": "darwinbox",
+        "url": "1mg"
+    },
+    {
+        "company": "https://paypal.wd1.myworkdayjobs.com/jobs",
+        "ats": "workday",
+        "url": "https://paypal.wd1.myworkdayjobs.com/jobs"
+    },
+    {
+        "company": "khatabook.turbohire.co",
+        "ats": "turbohire",
+        "url": "khatabook.turbohire.co"
+    },
+    {
+        "company": "https://visa.wd5.myworkdayjobs.com/Visa",
+        "ats": "workday",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa"
+    },
+    {
+        "company": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+        "ats": "oracle",
+        "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
+    },
+    {
+        "company": "https://fmr.wd1.myworkdayjobs.com/FidelityCareers",
+        "ats": "workday",
+        "url": "https://fmr.wd1.myworkdayjobs.com/FidelityCareers"
+    },
+    {
+        "company": "morganstanley",
+        "ats": "eightfold",
+        "url": "morganstanley"
+    },
+    {
+        "company": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
+        "ats": "workday",
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers"
+    },
+    {
+        "company": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers",
+        "ats": "oracle",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers"
+    },
+    {
+        "company": "jpmc",
+        "ats": "eightfold",
+        "url": "jpmc"
+    },
+    {
+        "company": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers",
+        "ats": "workday",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers"
+    },
+    {
+        "company": "https://expedia.wd108.myworkdayjobs.com/search",
+        "ats": "workday",
+        "url": "https://expedia.wd108.myworkdayjobs.com/search"
+    },
+    {
+        "company": "jupiter.keka.com",
+        "ats": "keka",
+        "url": "jupiter.keka.com"
+    },
+    {
+        "company": "https://careers-apac-atlassian.icims.com",
+        "ats": "icims",
+        "url": "https://careers-apac-atlassian.icims.com"
+    },
+    {
+        "company": "careers.tesco.com",
+        "ats": "tribepad",
+        "url": "careers.tesco.com/en_GB/careers/SearchJobs"
+    },
+    {
+        "company": "https://careers.bain.com",
+        "ats": "avature",
+        "url": "https://careers.bain.com"
+    },
+    {
+        "company": "rapido",
+        "ats": "darwinbox",
+        "url": "rapido"
+    },
+    {
+        "company": "https://careers-cvent.icims.com",
+        "ats": "icims",
+        "url": "https://careers-cvent.icims.com"
+    },
+    {
+        "company": "https://gartner.wd5.myworkdayjobs.com/EXT",
+        "ats": "workday",
+        "url": "https://gartner.wd5.myworkdayjobs.com/EXT"
+    },
+    {
+        "company": "nutanix",
+        "ats": "eightfold",
+        "url": "nutanix"
+    }
+]
