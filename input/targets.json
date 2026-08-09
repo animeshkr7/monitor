@@ -252,9 +252,6 @@
         "company": "disney"
     },
     {
-        "_comment": "Uber uses proprietary ATS, no supported scraper - skipped"
-    },
-    {
         "ats": "oracle",
         "company": "https://eeho.fa.us2.oraclecloud.com"
     },
