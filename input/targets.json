@@ -348,7 +348,8 @@
         "company": "tekion"
     },
     {
-        "_comment": "Disabled: greenhouse/momentumcommerce - Returned 0 jobs. Likely migrated or incorrect slug."
+        "ats": "greenhouse",
+        "company": "momentum"
     },
     {
         "ats": "greenhouse",
@@ -363,17 +364,18 @@
         "company": "postman"
     },
     {
-        "_comment": "Disabled: smartrecruiters/zomato - Returned 0 jobs. Likely migrated or incorrect slug."
+        "_comment": "ZOMATO uses Referrals/Proprietary. A new scraper must be built for this ATS before it can be monitored."
     },
     {
         "ats": "workday",
         "company": "https://sprinklr.wd1.myworkdayjobs.com/careers"
     },
     {
-        "_comment": "Disabled: workday/https://walmart.wd5.myworkdayjobs.com/WalmartExternal - Expecting value: line 1 column 1 (char 0)"
+        "ats": "workday",
+        "company": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal"
     },
     {
-        "_comment": "Disabled: ashby/cred - Ashby board not found: cred"
+        "_comment": "CRED uses Proprietary (cred.club/careers). A new scraper must be built for this ATS before it can be monitored."
     },
     {
         "ats": "workday",
@@ -384,14 +386,14 @@
         "company": "tiktok"
     },
     {
-        "_comment": "Disabled: smartrecruiters/SiemensEnergy - Returned 0 jobs. Likely migrated or incorrect slug."
+        "_comment": "SIEMENSENERGY uses SmartRecruiters (Zero Jobs/Migrated). A new scraper must be built for this ATS before it can be monitored."
     },
     {
         "company": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB",
         "ats": "workday"
     },
     {
-        "_comment": "Disabled: smartrecruiters/Nielsen - Returned 0 jobs. Likely migrated or incorrect slug."
+        "_comment": "NIELSEN uses SmartRecruiters (Zero Jobs/Migrated). A new scraper must be built for this ATS before it can be monitored."
     },
     {
         "company": "https://salesforce.wd12.myworkdayjobs.com/Slack",
@@ -410,7 +412,7 @@
         "ats": "greenhouse"
     },
     {
-        "_comment": "Disabled: meta/meta - Returned 0 jobs. Likely migrated or incorrect slug."
+        "_comment": "META uses Proprietary. A new scraper must be built for this ATS before it can be monitored."
     },
     {
         "company": "airtel",
@@ -456,32 +458,32 @@
         "ats": "oracle"
     },
     {
-        "_comment": "Disabled: darwinbox/gommt - Returned 0 jobs. Likely migrated or incorrect slug."
+        "_comment": "GOMMT uses Darwinbox HCM. A new scraper must be built for this ATS before it can be monitored."
     },
     {
-        "_comment": "Disabled: turbohire/navi - 'turbohire' is not a valid ATSType"
+        "_comment": "NAVI uses TurboHire. A new scraper must be built for this ATS before it can be monitored."
     },
     {
         "company": "https://target.wd5.myworkdayjobs.com/targetcareers",
         "ats": "workday"
     },
     {
-        "_comment": "Disabled: darwinbox/delhivery - Darwinbox Playwright fetch failed: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://delhivery.darwinbox.in/ms/candidate/careers\", waiting until \"networkidle\"\n"
+        "_comment": "DELHIVERY uses Darwinbox HCM. A new scraper must be built for this ATS before it can be monitored."
     },
     {
-        "_comment": "Disabled: turbohire/urbancompany - 'turbohire' is not a valid ATSType"
+        "_comment": "URBANCOMPANY uses TurboHire. A new scraper must be built for this ATS before it can be monitored."
     },
     {
-        "_comment": "Disabled: darwinbox/atherenergy - Returned 0 jobs. Likely migrated or incorrect slug."
+        "_comment": "ATHERENERGY uses Darwinbox HCM. A new scraper must be built for this ATS before it can be monitored."
     },
     {
-        "_comment": "Disabled: talentrecruit/zepto.talentrecruit.com - 'talentrecruit' is not a valid ATSType"
+        "_comment": "ZEPTO.TALENTRECRUIT.COM uses TalentRecruit. A new scraper must be built for this ATS before it can be monitored."
     },
     {
-        "_comment": "Disabled: lever/gotogroup - Lever board not found: gotogroup"
+        "_comment": "GOTOGROUP uses Unknown/Proprietary. A new scraper must be built for this ATS before it can be monitored."
     },
     {
-        "_comment": "Disabled: greenhouse/jobs.myntra.com - Greenhouse board not found: jobs.myntra.com"
+        "_comment": "JOBS.MYNTRA.COM uses Proprietary (careers.myntra.com). A new scraper must be built for this ATS before it can be monitored."
     },
     {
         "company": "https://browserstack.wd3.myworkdayjobs.com/External",
@@ -492,25 +494,25 @@
         "_comment": "Disabled: taleo/https://uhg.taleo.net - Taleo URL must contain `tbe.taleo.net`, got 'https://uhg.taleo.net'"
     },
     {
-        "_comment": "Disabled: turbohire/pinelabsgroup.turbohire.co - 'turbohire' is not a valid ATSType"
+        "_comment": "PINELABSGROUP.TURBOHIRE.CO uses TurboHire. A new scraper must be built for this ATS before it can be monitored."
     },
     {
-        "_comment": "Disabled: zwayam/careers.cult.fit - 'zwayam' is not a valid ATSType"
+        "_comment": "CAREERS.CULT.FIT uses Zwayam. A new scraper must be built for this ATS before it can be monitored."
     },
     {
-        "_comment": "Disabled: zoho/careers.bbinsight.com - Zoho fetch failed for https://careers.bbinsight.com.zohorecruit.com/jobs/Careers: [Errno 11001] getaddrinfo failed"
+        "_comment": "CAREERS.BBINSIGHT.COM uses Dead URL (DNS Failed). A new scraper must be built for this ATS before it can be monitored."
     },
     {
-        "_comment": "Disabled: turbohire/lenskart.turbohire.co - 'turbohire' is not a valid ATSType"
+        "_comment": "LENSKART.TURBOHIRE.CO uses TurboHire. A new scraper must be built for this ATS before it can be monitored."
     },
     {
-        "_comment": "Disabled: avature/intuit - Avature site not found: https://intuit.avature.net"
+        "_comment": "INTUIT uses Proprietary (jobs.intuit.com). A new scraper must be built for this ATS before it can be monitored."
     },
     {
-        "_comment": "Disabled: avature/cisco2 - Avature site not found: https://cisco2.avature.net"
+        "_comment": "CISCO2 uses MyWorkdayJobs (jobs.cisco.com). A new scraper must be built for this ATS before it can be monitored."
     },
     {
-        "_comment": "Disabled: darwinbox/1mg - Returned 0 jobs. Likely migrated or incorrect slug."
+        "_comment": "1MG uses Darwinbox HCM. A new scraper must be built for this ATS before it can be monitored."
     },
     {
         "company": "https://paypal.wd1.myworkdayjobs.com/jobs",
@@ -518,7 +520,7 @@
         "url": "https://paypal.wd1.myworkdayjobs.com/jobs"
     },
     {
-        "_comment": "Disabled: turbohire/khatabook.turbohire.co - 'turbohire' is not a valid ATSType"
+        "_comment": "KHATABOOK.TURBOHIRE.CO uses TurboHire. A new scraper must be built for this ATS before it can be monitored."
     },
     {
         "company": "https://visa.wd5.myworkdayjobs.com/Visa",
@@ -551,7 +553,7 @@
         "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers"
     },
     {
-        "_comment": "Disabled: eightfold/jpmc - Eightfold (Jpmc) fetch failed at start=0: [Errno 11001] getaddrinfo failed"
+        "_comment": "JPMC uses Oracle Recruiting Cloud. A new scraper must be built for this ATS before it can be monitored."
     },
     {
         "company": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers",
@@ -564,27 +566,32 @@
         "url": "https://expedia.wd108.myworkdayjobs.com/search"
     },
     {
-        "_comment": "Disabled: keka/jupiter.keka.com - 'keka' is not a valid ATSType"
+        "_comment": "JUPITER.KEKA.COM uses Keka. A new scraper must be built for this ATS before it can be monitored."
     },
     {
-        "_comment": "Disabled: icims/https://careers-apac-atlassian.icims.com - Returned 0 jobs. Likely migrated or incorrect slug."
+        "_comment": "HTTPS://CAREERS-APAC-ATLASSIAN.ICIMS.COM uses Proprietary (atlassian.com/company/careers). A new scraper must be built for this ATS before it can be monitored."
     },
     {
-        "_comment": "Disabled: tribepad/careers.tesco.com - 'tribepad' is not a valid ATSType"
+        "_comment": "CAREERS.TESCO.COM uses Tribepad. A new scraper must be built for this ATS before it can be monitored."
     },
     {
         "_comment": "Disabled: avature/https://careers.bain.com - Avature site not found: https://careers.bain.com"
     },
     {
-        "_comment": "Disabled: darwinbox/rapido - Darwinbox Playwright fetch failed: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://rapido.darwinbox.in/ms/candidate/careers\", waiting until \"networkidle\"\n"
+        "_comment": "RAPIDO uses Darwinbox HCM. A new scraper must be built for this ATS before it can be monitored."
     },
     {
-        "_comment": "Disabled: icims/https://careers-cvent.icims.com - Returned 0 jobs. Likely migrated or incorrect slug."
+        "_comment": "HTTPS://CAREERS-CVENT.ICIMS.COM uses Hirebridge. A new scraper must be built for this ATS before it can be monitored."
     },
     {
-        "_comment": "Disabled: workday/https://gartner.wd5.myworkdayjobs.com/EXT - Workday gave up after 3 retries at offset=540: None"
+        "ats": "workday",
+        "company": "https://gartner.wd5.myworkdayjobs.com/EXT"
     },
     {
-        "_comment": "Disabled: eightfold/nutanix - Eightfold (Nutanix) returned 404 at start=0"
+        "_comment": "NUTANIX uses Jobvite/Proprietary. A new scraper must be built for this ATS before it can be monitored."
+    },
+    {
+        "ats": "workday",
+        "company": "https://baincapital.myworkdayjobs.com/BainCapital"
     }
 ]
