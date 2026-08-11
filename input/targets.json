@@ -348,8 +348,7 @@
         "company": "tekion"
     },
     {
-        "ats": "greenhouse",
-        "company": "momentumcommerce"
+        "_comment": "Disabled: greenhouse/momentumcommerce - Returned 0 jobs. Likely migrated or incorrect slug."
     },
     {
         "ats": "greenhouse",
@@ -364,20 +363,17 @@
         "company": "postman"
     },
     {
-        "ats": "smartrecruiters",
-        "company": "zomato"
+        "_comment": "Disabled: smartrecruiters/zomato - Returned 0 jobs. Likely migrated or incorrect slug."
     },
     {
         "ats": "workday",
         "company": "https://sprinklr.wd1.myworkdayjobs.com/careers"
     },
     {
-        "ats": "workday",
-        "company": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal"
+        "_comment": "Disabled: workday/https://walmart.wd5.myworkdayjobs.com/WalmartExternal - Expecting value: line 1 column 1 (char 0)"
     },
     {
-        "ats": "ashby",
-        "company": "cred"
+        "_comment": "Disabled: ashby/cred - Ashby board not found: cred"
     },
     {
         "ats": "workday",
@@ -388,16 +384,14 @@
         "company": "tiktok"
     },
     {
-        "company": "SiemensEnergy",
-        "ats": "smartrecruiters"
+        "_comment": "Disabled: smartrecruiters/SiemensEnergy - Returned 0 jobs. Likely migrated or incorrect slug."
     },
     {
         "company": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB",
         "ats": "workday"
     },
     {
-        "company": "Nielsen",
-        "ats": "smartrecruiters"
+        "_comment": "Disabled: smartrecruiters/Nielsen - Returned 0 jobs. Likely migrated or incorrect slug."
     },
     {
         "company": "https://salesforce.wd12.myworkdayjobs.com/Slack",
@@ -416,8 +410,7 @@
         "ats": "greenhouse"
     },
     {
-        "company": "meta",
-        "ats": "meta"
+        "_comment": "Disabled: meta/meta - Returned 0 jobs. Likely migrated or incorrect slug."
     },
     {
         "company": "airtel",
@@ -463,43 +456,32 @@
         "ats": "oracle"
     },
     {
-        "company": "gommt",
-        "ats": "darwinbox"
+        "_comment": "Disabled: darwinbox/gommt - Returned 0 jobs. Likely migrated or incorrect slug."
     },
     {
-        "company": "navi",
-        "ats": "turbohire",
-        "url": "https://navi.turbohire.co/careerpage/3e818601-0baa-429c-b6f8-4b21903ae0e6"
+        "_comment": "Disabled: turbohire/navi - 'turbohire' is not a valid ATSType"
     },
     {
         "company": "https://target.wd5.myworkdayjobs.com/targetcareers",
         "ats": "workday"
     },
     {
-        "company": "delhivery",
-        "ats": "darwinbox"
+        "_comment": "Disabled: darwinbox/delhivery - Darwinbox Playwright fetch failed: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://delhivery.darwinbox.in/ms/candidate/careers\", waiting until \"networkidle\"\n"
     },
     {
-        "company": "urbancompany",
-        "ats": "turbohire",
-        "url": "https://urbancompany.turbohire.co/"
+        "_comment": "Disabled: turbohire/urbancompany - 'turbohire' is not a valid ATSType"
     },
     {
-        "company": "atherenergy",
-        "ats": "darwinbox"
+        "_comment": "Disabled: darwinbox/atherenergy - Returned 0 jobs. Likely migrated or incorrect slug."
     },
     {
-        "company": "zepto.talentrecruit.com",
-        "ats": "talentrecruit"
+        "_comment": "Disabled: talentrecruit/zepto.talentrecruit.com - 'talentrecruit' is not a valid ATSType"
     },
     {
-        "company": "gotogroup",
-        "ats": "lever"
+        "_comment": "Disabled: lever/gotogroup - Lever board not found: gotogroup"
     },
     {
-        "company": "jobs.myntra.com",
-        "ats": "greenhouse",
-        "url": "jobs.myntra.com"
+        "_comment": "Disabled: greenhouse/jobs.myntra.com - Greenhouse board not found: jobs.myntra.com"
     },
     {
         "company": "https://browserstack.wd3.myworkdayjobs.com/External",
@@ -507,44 +489,28 @@
         "url": "https://browserstack.wd3.myworkdayjobs.com/External"
     },
     {
-        "company": "https://uhg.taleo.net",
-        "ats": "taleo",
-        "url": "https://uhg.taleo.net"
+        "_comment": "Disabled: taleo/https://uhg.taleo.net - Taleo URL must contain `tbe.taleo.net`, got 'https://uhg.taleo.net'"
     },
     {
-        "company": "pinelabsgroup.turbohire.co",
-        "ats": "turbohire",
-        "url": "pinelabsgroup.turbohire.co"
+        "_comment": "Disabled: turbohire/pinelabsgroup.turbohire.co - 'turbohire' is not a valid ATSType"
     },
     {
-        "company": "careers.cult.fit",
-        "ats": "zwayam",
-        "url": "careers.cult.fit"
+        "_comment": "Disabled: zwayam/careers.cult.fit - 'zwayam' is not a valid ATSType"
     },
     {
-        "company": "careers.bbinsight.com",
-        "ats": "zoho",
-        "url": "careers.bbinsight.com"
+        "_comment": "Disabled: zoho/careers.bbinsight.com - Zoho fetch failed for https://careers.bbinsight.com.zohorecruit.com/jobs/Careers: [Errno 11001] getaddrinfo failed"
     },
     {
-        "company": "lenskart.turbohire.co",
-        "ats": "turbohire",
-        "url": "lenskart.turbohire.co"
+        "_comment": "Disabled: turbohire/lenskart.turbohire.co - 'turbohire' is not a valid ATSType"
     },
     {
-        "company": "intuit",
-        "ats": "avature",
-        "url": "intuit"
+        "_comment": "Disabled: avature/intuit - Avature site not found: https://intuit.avature.net"
     },
     {
-        "company": "cisco2",
-        "ats": "avature",
-        "url": "cisco2"
+        "_comment": "Disabled: avature/cisco2 - Avature site not found: https://cisco2.avature.net"
     },
     {
-        "company": "1mg",
-        "ats": "darwinbox",
-        "url": "1mg"
+        "_comment": "Disabled: darwinbox/1mg - Returned 0 jobs. Likely migrated or incorrect slug."
     },
     {
         "company": "https://paypal.wd1.myworkdayjobs.com/jobs",
@@ -552,9 +518,7 @@
         "url": "https://paypal.wd1.myworkdayjobs.com/jobs"
     },
     {
-        "company": "khatabook.turbohire.co",
-        "ats": "turbohire",
-        "url": "khatabook.turbohire.co"
+        "_comment": "Disabled: turbohire/khatabook.turbohire.co - 'turbohire' is not a valid ATSType"
     },
     {
         "company": "https://visa.wd5.myworkdayjobs.com/Visa",
@@ -587,9 +551,7 @@
         "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers"
     },
     {
-        "company": "jpmc",
-        "ats": "eightfold",
-        "url": "jpmc"
+        "_comment": "Disabled: eightfold/jpmc - Eightfold (Jpmc) fetch failed at start=0: [Errno 11001] getaddrinfo failed"
     },
     {
         "company": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers",
@@ -602,43 +564,27 @@
         "url": "https://expedia.wd108.myworkdayjobs.com/search"
     },
     {
-        "company": "jupiter.keka.com",
-        "ats": "keka",
-        "url": "jupiter.keka.com"
+        "_comment": "Disabled: keka/jupiter.keka.com - 'keka' is not a valid ATSType"
     },
     {
-        "company": "https://careers-apac-atlassian.icims.com",
-        "ats": "icims",
-        "url": "https://careers-apac-atlassian.icims.com"
+        "_comment": "Disabled: icims/https://careers-apac-atlassian.icims.com - Returned 0 jobs. Likely migrated or incorrect slug."
     },
     {
-        "company": "careers.tesco.com",
-        "ats": "tribepad",
-        "url": "careers.tesco.com/en_GB/careers/SearchJobs"
+        "_comment": "Disabled: tribepad/careers.tesco.com - 'tribepad' is not a valid ATSType"
     },
     {
-        "company": "https://careers.bain.com",
-        "ats": "avature",
-        "url": "https://careers.bain.com"
+        "_comment": "Disabled: avature/https://careers.bain.com - Avature site not found: https://careers.bain.com"
     },
     {
-        "company": "rapido",
-        "ats": "darwinbox",
-        "url": "rapido"
+        "_comment": "Disabled: darwinbox/rapido - Darwinbox Playwright fetch failed: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://rapido.darwinbox.in/ms/candidate/careers\", waiting until \"networkidle\"\n"
     },
     {
-        "company": "https://careers-cvent.icims.com",
-        "ats": "icims",
-        "url": "https://careers-cvent.icims.com"
+        "_comment": "Disabled: icims/https://careers-cvent.icims.com - Returned 0 jobs. Likely migrated or incorrect slug."
     },
     {
-        "company": "https://gartner.wd5.myworkdayjobs.com/EXT",
-        "ats": "workday",
-        "url": "https://gartner.wd5.myworkdayjobs.com/EXT"
+        "_comment": "Disabled: workday/https://gartner.wd5.myworkdayjobs.com/EXT - Workday gave up after 3 retries at offset=540: None"
     },
     {
-        "company": "nutanix",
-        "ats": "eightfold",
-        "url": "nutanix"
+        "_comment": "Disabled: eightfold/nutanix - Eightfold (Nutanix) returned 404 at start=0"
     }
 ]
