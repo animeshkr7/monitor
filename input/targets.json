@@ -32,8 +32,8 @@
         "company": "the-flex"
     },
     {
-        "ats": "bamboohr",
-        "company": "seagate"
+        "ats": "successfactors",
+        "company": "seagatecareers.com"
     },
     {
         "ats": "google",
@@ -148,8 +148,8 @@
         "company": "zeta"
     },
     {
-        "ats": "smartrecruiters",
-        "company": "adobe1"
+        "ats": "phenom",
+        "company": "https://careers.adobe.com"
     },
     {
         "ats": "smartrecruiters",
@@ -172,8 +172,7 @@
         "company": "servicenow"
     },
     {
-        "ats": "smartrecruiters",
-        "company": "virtusapolaris"
+        "_comment": "VIRTUSA uses Phenom People (careers.virtusa.com) but scraper currently fails. Need to fix API slug."
     },
     {
         "ats": "workday",
@@ -349,7 +348,7 @@
     },
     {
         "ats": "greenhouse",
-        "company": "momentum"
+        "company": "momentumfinancialservicesgroup"
     },
     {
         "ats": "greenhouse",
@@ -371,8 +370,7 @@
         "company": "https://sprinklr.wd1.myworkdayjobs.com/careers"
     },
     {
-        "ats": "workday",
-        "company": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal"
+        "_comment": "WALMART was failing on walmart. Marking as comment until new ATS URL is verified."
     },
     {
         "_comment": "CRED uses Proprietary (cred.club/careers). A new scraper must be built for this ATS before it can be monitored."
@@ -412,7 +410,8 @@
         "ats": "greenhouse"
     },
     {
-        "_comment": "META uses Proprietary. A new scraper must be built for this ATS before it can be monitored."
+        "ats": "meta",
+        "company": "meta"
     },
     {
         "company": "airtel",
@@ -458,23 +457,25 @@
         "ats": "oracle"
     },
     {
-        "_comment": "GOMMT uses Darwinbox HCM. A new scraper must be built for this ATS before it can be monitored."
+        "_comment": "GOMMT was failing on darwinbox. Marking as comment until new ATS URL is verified."
     },
     {
-        "_comment": "NAVI uses TurboHire. A new scraper must be built for this ATS before it can be monitored."
+        "ats": "turbohire",
+        "company": "navi"
     },
     {
         "company": "https://target.wd5.myworkdayjobs.com/targetcareers",
         "ats": "workday"
     },
     {
-        "_comment": "DELHIVERY uses Darwinbox HCM. A new scraper must be built for this ATS before it can be monitored."
+        "_comment": "DELHIVERY was failing on darwinbox. Marking as comment until new ATS URL is verified."
     },
     {
-        "_comment": "URBANCOMPANY uses TurboHire. A new scraper must be built for this ATS before it can be monitored."
+        "ats": "turbohire",
+        "company": "urbancompany"
     },
     {
-        "_comment": "ATHERENERGY uses Darwinbox HCM. A new scraper must be built for this ATS before it can be monitored."
+        "_comment": "ATHERENERGY was failing on darwinbox. Marking as comment until new ATS URL is verified."
     },
     {
         "_comment": "ZEPTO.TALENTRECRUIT.COM uses TalentRecruit. A new scraper must be built for this ATS before it can be monitored."
@@ -491,10 +492,11 @@
         "url": "https://browserstack.wd3.myworkdayjobs.com/External"
     },
     {
-        "_comment": "Disabled: taleo/https://uhg.taleo.net - Taleo URL must contain `tbe.taleo.net`, got 'https://uhg.taleo.net'"
+        "_comment": "UNITEDHEALTH GROUP was failing on uhg. Marking as comment until new ATS URL is verified."
     },
     {
-        "_comment": "PINELABSGROUP.TURBOHIRE.CO uses TurboHire. A new scraper must be built for this ATS before it can be monitored."
+        "ats": "turbohire",
+        "company": "pinelabsgroup"
     },
     {
         "_comment": "CAREERS.CULT.FIT uses Zwayam. A new scraper must be built for this ATS before it can be monitored."
@@ -503,7 +505,8 @@
         "_comment": "CAREERS.BBINSIGHT.COM uses Dead URL (DNS Failed). A new scraper must be built for this ATS before it can be monitored."
     },
     {
-        "_comment": "LENSKART.TURBOHIRE.CO uses TurboHire. A new scraper must be built for this ATS before it can be monitored."
+        "ats": "turbohire",
+        "company": "lenskart"
     },
     {
         "_comment": "INTUIT uses Proprietary (jobs.intuit.com). A new scraper must be built for this ATS before it can be monitored."
@@ -512,7 +515,7 @@
         "_comment": "CISCO2 uses MyWorkdayJobs (jobs.cisco.com). A new scraper must be built for this ATS before it can be monitored."
     },
     {
-        "_comment": "1MG uses Darwinbox HCM. A new scraper must be built for this ATS before it can be monitored."
+        "_comment": "1MG was failing on darwinbox. Marking as comment until new ATS URL is verified."
     },
     {
         "company": "https://paypal.wd1.myworkdayjobs.com/jobs",
@@ -520,7 +523,8 @@
         "url": "https://paypal.wd1.myworkdayjobs.com/jobs"
     },
     {
-        "_comment": "KHATABOOK.TURBOHIRE.CO uses TurboHire. A new scraper must be built for this ATS before it can be monitored."
+        "ats": "turbohire",
+        "company": "khatabook"
     },
     {
         "company": "https://visa.wd5.myworkdayjobs.com/Visa",
@@ -553,7 +557,8 @@
         "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers"
     },
     {
-        "_comment": "JPMC uses Oracle Recruiting Cloud. A new scraper must be built for this ATS before it can be monitored."
+        "ats": "oracle",
+        "company": "https://jpmc.fa.oraclecloud.com"
     },
     {
         "company": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers",
@@ -569,19 +574,20 @@
         "_comment": "JUPITER.KEKA.COM uses Keka. A new scraper must be built for this ATS before it can be monitored."
     },
     {
-        "_comment": "HTTPS://CAREERS-APAC-ATLASSIAN.ICIMS.COM uses Proprietary (atlassian.com/company/careers). A new scraper must be built for this ATS before it can be monitored."
+        "_comment": "APAC-ATLASSIAN was failing on icims. Marking as comment until new ATS URL is verified."
     },
     {
         "_comment": "CAREERS.TESCO.COM uses Tribepad. A new scraper must be built for this ATS before it can be monitored."
     },
     {
-        "_comment": "Disabled: avature/https://careers.bain.com - Avature site not found: https://careers.bain.com"
+        "ats": "workday",
+        "company": "https://baincapital.wd1.myworkdayjobs.com/External_Public"
     },
     {
-        "_comment": "RAPIDO uses Darwinbox HCM. A new scraper must be built for this ATS before it can be monitored."
+        "_comment": "RAPIDO was failing on darwinbox. Marking as comment until new ATS URL is verified."
     },
     {
-        "_comment": "HTTPS://CAREERS-CVENT.ICIMS.COM uses Hirebridge. A new scraper must be built for this ATS before it can be monitored."
+        "_comment": "CVENT was failing on icims. Marking as comment until new ATS URL is verified."
     },
     {
         "ats": "workday",
@@ -592,6 +598,83 @@
     },
     {
         "ats": "workday",
-        "company": "https://baincapital.myworkdayjobs.com/BainCapital"
+        "company": "https://baincapital.wd1.myworkdayjobs.com/External_Public"
+    },
+    {
+        "ats": "workday",
+        "company": "https://amgen.wd1.myworkdayjobs.com/Careers"
+    },
+    {
+        "_comment": "ASCENDION uses a Proprietary AI platform. A new scraper must be built for this ATS before it can be monitored."
+    },
+    {
+        "ats": "avature",
+        "company": "harmanglobal"
+    },
+    {
+        "ats": "smartrecruiters",
+        "company": "springernature"
+    },
+    {
+        "ats": "workday",
+        "company": "https://northerntrust.wd1.myworkdayjobs.com/ntcareers"
+    },
+    {
+        "ats": "eightfold",
+        "company": "eaton"
+    },
+    {
+        "ats": "workday",
+        "company": "https://statestreet.wd1.myworkdayjobs.com/Global_Careers"
+    },
+    {
+        "ats": "workday",
+        "company": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers"
+    },
+    {
+        "ats": "workday",
+        "company": "https://medline.wd1.myworkdayjobs.com/Medline_Careers"
+    },
+    {
+        "_comment": "MYNTRA uses Proprietary (careers.myntra.com). A new scraper must be built for this ATS before it can be monitored."
+    },
+    {
+        "_comment": "SIEMENS uses Avature Custom Portal (jobs.siemens.com). A new scraper must be built for this ATS before it can be monitored."
+    },
+    {
+        "_comment": "NTT DATA uses SAP SuccessFactors or Custom based on region. Exact URL needed."
+    },
+    {
+        "ats": "workday",
+        "url": "https://amgen.wd1.myworkdayjobs.com/Careers",
+        "company": "amgen"
+    },
+    {
+        "ats": "ascendion",
+        "company": "ascendion"
+    },
+    {
+        "ats": "harman",
+        "company": "harman"
+    },
+    {
+        "ats": "workday",
+        "url": "https://springernature.wd3.myworkdayjobs.com/SpringerNatureCareers",
+        "company": "springer nature"
+    },
+    {
+        "ats": "workday",
+        "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust",
+        "company": "northern trust"
+    },
+    {
+        "ats": "workday",
+        "url": "https://dell.wd1.myworkdayjobs.com/External",
+        "company": "dell"
+    },
+    {
+        "ats": "workday",
+        "url": "https://statestreet.wd1.myworkdayjobs.com/Global_Careers",
+        "company": "statestreet"
     }
 ]
