@@ -190,5 +190,17 @@
     {
         "ats": "walmart",
         "company": "walmart"
+    },
+    {
+        "ats": "myntra",
+        "company": "myntra"
+    },
+    {
+        "ats": "siemens",
+        "company": "siemens"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "razorpaysoftwareprivatelimited"
     }
 ]
