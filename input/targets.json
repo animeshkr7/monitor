@@ -105,10 +105,6 @@
     },
     {
         "ats": "greenhouse",
-        "company": "razorpaysoftwareprivatelimited"
-    },
-    {
-        "ats": "greenhouse",
         "company": "siei"
     },
     {
@@ -394,10 +390,6 @@
         "_comment": "NIELSEN uses SmartRecruiters (Zero Jobs/Migrated). A new scraper must be built for this ATS before it can be monitored."
     },
     {
-        "company": "https://salesforce.wd12.myworkdayjobs.com/Slack",
-        "ats": "workday"
-    },
-    {
         "company": "NoBroker",
         "ats": "smartrecruiters"
     },
@@ -419,8 +411,7 @@
     },
     {
         "company": "inmobi",
-        "ats": "greenhouse",
-        "url": "inmobi"
+        "ats": "greenhouse"
     },
     {
         "company": "meesho",
@@ -515,7 +506,8 @@
         "_comment": "CISCO2 uses MyWorkdayJobs (jobs.cisco.com). A new scraper must be built for this ATS before it can be monitored."
     },
     {
-        "_comment": "1MG was failing on darwinbox. Marking as comment until new ATS URL is verified."
+        "ats": "tata1mg",
+        "company": "1mg"
     },
     {
         "company": "https://paypal.wd1.myworkdayjobs.com/jobs",
@@ -543,8 +535,7 @@
     },
     {
         "company": "morganstanley",
-        "ats": "eightfold",
-        "url": "morganstanley"
+        "ats": "eightfold"
     },
     {
         "company": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
@@ -598,10 +589,6 @@
     },
     {
         "ats": "workday",
-        "company": "https://baincapital.wd1.myworkdayjobs.com/External_Public"
-    },
-    {
-        "ats": "workday",
         "company": "https://amgen.wd1.myworkdayjobs.com/Careers"
     },
     {
@@ -616,16 +603,12 @@
         "company": "springernature"
     },
     {
-        "ats": "workday",
-        "company": "https://northerntrust.wd1.myworkdayjobs.com/ntcareers"
-    },
-    {
         "ats": "eightfold",
         "company": "eaton"
     },
     {
-        "ats": "workday",
-        "company": "https://statestreet.wd1.myworkdayjobs.com/Global_Careers"
+        "company": "https://statestreet.wd1.myworkdayjobs.com/Global",
+        "ats": "workday"
     },
     {
         "ats": "workday",
@@ -645,11 +628,6 @@
         "_comment": "NTT DATA uses SAP SuccessFactors or Custom based on region. Exact URL needed."
     },
     {
-        "ats": "workday",
-        "url": "https://amgen.wd1.myworkdayjobs.com/Careers",
-        "company": "amgen"
-    },
-    {
         "ats": "ascendion",
         "company": "ascendion"
     },
@@ -659,22 +637,15 @@
     },
     {
         "ats": "workday",
-        "url": "https://springernature.wd3.myworkdayjobs.com/SpringerNatureCareers",
-        "company": "springer nature"
-    },
-    {
-        "ats": "workday",
         "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust",
         "company": "northern trust"
     },
     {
         "ats": "workday",
-        "url": "https://dell.wd1.myworkdayjobs.com/External",
-        "company": "dell"
+        "company": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs"
     },
     {
-        "ats": "workday",
-        "url": "https://statestreet.wd1.myworkdayjobs.com/Global_Careers",
-        "company": "statestreet"
+        "ats": "greenhouse",
+        "company": "airbnb"
     }
 ]

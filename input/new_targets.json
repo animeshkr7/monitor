@@ -1,0 +1,173 @@
+[
+    {
+        "ats": "ashby",
+        "company": "snowflake"
+    },
+    {
+        "ats": "eightfold",
+        "company": "amdocs"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "6sense"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "byd"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "elastic"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "zscaler"
+    },
+    {
+        "ats": "lever",
+        "company": "paytm"
+    },
+    {
+        "ats": "phenom",
+        "company": "https://careers.adobe.com"
+    },
+    {
+        "ats": "phenom",
+        "company": "https://careers.mastercard.com"
+    },
+    {
+        "ats": "icims",
+        "company": "persistentsystems"
+    },
+    {
+        "ats": "smartrecruiters",
+        "company": "servicenow"
+    },
+    {
+        "ats": "workday",
+        "company": "https://zendesk.wd1.myworkdayjobs.com/zendesk"
+    },
+    {
+        "ats": "workday",
+        "company": "https://broadcom.wd1.myworkdayjobs.com/external_career"
+    },
+    {
+        "ats": "workday",
+        "company": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers"
+    },
+    {
+        "ats": "workday",
+        "company": "https://rakuten.wd1.myworkdayjobs.com/kobo"
+    },
+    {
+        "ats": "workday",
+        "company": "https://redhat.wd5.myworkdayjobs.com/jobs"
+    },
+    {
+        "ats": "workday",
+        "company": "https://salesforce.wd12.myworkdayjobs.com/external_career_site"
+    },
+    {
+        "ats": "workday",
+        "company": "https://salesforce.wd12.myworkdayjobs.com/slack"
+    },
+    {
+        "ats": "workday",
+        "company": "https://synechron.wd1.myworkdayjobs.com/synechroncareers"
+    },
+    {
+        "ats": "disney",
+        "company": "disney"
+    },
+    {
+        "ats": "successfactors",
+        "company": "careers.airindia.com"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "adyen"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "postman"
+    },
+    {
+        "company": "https://jiostar.wd102.myworkdayjobs.com/JioStar",
+        "ats": "workday"
+    },
+    {
+        "company": "inmobi",
+        "ats": "greenhouse"
+    },
+    {
+        "company": "https://browserstack.wd3.myworkdayjobs.com/External",
+        "ats": "workday",
+        "url": "https://browserstack.wd3.myworkdayjobs.com/External"
+    },
+    {
+        "ats": "turbohire",
+        "company": "lenskart"
+    },
+    {
+        "ats": "tata1mg",
+        "company": "1mg"
+    },
+    {
+        "company": "https://paypal.wd1.myworkdayjobs.com/jobs",
+        "ats": "workday",
+        "url": "https://paypal.wd1.myworkdayjobs.com/jobs"
+    },
+    {
+        "company": "https://visa.wd5.myworkdayjobs.com/Visa",
+        "ats": "workday",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa"
+    },
+    {
+        "company": "https://fmr.wd1.myworkdayjobs.com/FidelityCareers",
+        "ats": "workday",
+        "url": "https://fmr.wd1.myworkdayjobs.com/FidelityCareers"
+    },
+    {
+        "company": "morganstanley",
+        "ats": "eightfold"
+    },
+    {
+        "company": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
+        "ats": "workday",
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers"
+    },
+    {
+        "company": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers",
+        "ats": "oracle",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers"
+    },
+    {
+        "ats": "oracle",
+        "company": "https://jpmc.fa.oraclecloud.com"
+    },
+    {
+        "company": "https://expedia.wd108.myworkdayjobs.com/search",
+        "ats": "workday",
+        "url": "https://expedia.wd108.myworkdayjobs.com/search"
+    },
+    {
+        "ats": "smartrecruiters",
+        "company": "springernature"
+    },
+    {
+        "company": "https://statestreet.wd1.myworkdayjobs.com/Global",
+        "ats": "workday"
+    },
+    {
+        "ats": "workday",
+        "company": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers"
+    },
+    {
+        "ats": "workday",
+        "company": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs"
+    },
+    {
+        "ats": "greenhouse",
+        "company": "airbnb"
+    }
+]
