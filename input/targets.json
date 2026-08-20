@@ -638,7 +638,7 @@
     {
         "ats": "workday",
         "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust",
-        "company": "northern trust"
+        "company": "https://ntrs.wd1.myworkdayjobs.com/northerntrust"
     },
     {
         "ats": "workday",
@@ -647,5 +647,17 @@
     {
         "ats": "greenhouse",
         "company": "airbnb"
+    },
+    {
+        "ats": "cisco",
+        "company": "cisco"
+    },
+    {
+        "ats": "mercedes",
+        "company": "mercedes"
+    },
+    {
+        "ats": "walmart",
+        "company": "walmart"
     }
 ]

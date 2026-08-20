@@ -169,5 +169,26 @@
     {
         "ats": "greenhouse",
         "company": "airbnb"
+    },
+    {
+        "ats": "workable",
+        "company": "dyson-farming"
+    },
+    {
+        "ats": "workday",
+        "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust",
+        "company": "https://ntrs.wd1.myworkdayjobs.com/northerntrust"
+    },
+    {
+        "ats": "cisco",
+        "company": "cisco"
+    },
+    {
+        "ats": "mercedes",
+        "company": "mercedes"
+    },
+    {
+        "ats": "walmart",
+        "company": "walmart"
     }
 ]
