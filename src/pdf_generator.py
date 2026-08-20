@@ -64,7 +64,7 @@ def json_to_pdf(json_data, output_pdf_path, title, is_failed_report=False):
                 # Encode & escape characters like & properly for reportlab if needed, but reportlab platypus handles standard strings
                 # Actually, in ReportLab Paragraph, characters like & < > need to be escaped.
                 j_title = str(j_title).replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
-                j_url_escaped = str(j_url).replace('&', '&amp;').replace('\"', '%22').replace(\"'\", '%27')
+                j_url_escaped = str(j_url).replace('&', '&amp;').replace('"', '%22').replace("'", '%27')
                 
                 link_text = f'<a href="{j_url_escaped}" color="blue">{j_title}</a> ({j_loc})'
                 elements.append(Paragraph(link_text, job_style))
